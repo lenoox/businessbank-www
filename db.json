@@ -1,0 +1,77 @@
+{
+  "payments": [
+    {
+      "id": 1,
+      "fromAccountNumber": "100200300",
+      "toAccountNumber": "300400500",
+      "value": 50000,
+      "currency": "PLN"
+    },
+    {
+      "fromAccountNumber": "200300400",
+      "toAccountNumber": "300400500",
+      "value": 15564,
+      "currency": "PLN",
+      "id": 2
+    },
+    {
+      "fromAccountNumber": "200300400",
+      "toAccountNumber": "300400500",
+      "value": 15564,
+      "currency": "PLN",
+      "id": 3
+    },
+    {
+      "fromAccountNumber": "200300400",
+      "toAccountNumber": "300400500",
+      "value": 15564,
+      "currency": "PLN",
+      "id": 4
+    },
+    {
+      "fromAccountNumber": "200300400",
+      "toAccountNumber": "300400500",
+      "value": 15564,
+      "currency": "PLN",
+      "id": 5
+    },
+    {
+      "fromAccountNumber": "200300400",
+      "toAccountNumber": "300400500",
+      "value": 15564,
+      "currency": "PLN",
+      "id": 6
+    },
+    {
+      "fromAccountNumber": "200300400",
+      "toAccountNumber": "300400500",
+      "value": 15564,
+      "currency": "PLN",
+      "id": 7
+    },
+    {
+      "fromAccountNumber": "200300400",
+      "toAccountNumber": "300400500",
+      "value": 15564,
+      "currency": "PLN",
+      "id": 8
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "accountNumber": "100200300",
+      "name": "Jan Kowalski"
+    },
+    {
+      "id": 2,
+      "accountNumber": "200300400",
+      "name": "Damian Kowalski"
+    },
+    {
+      "id": 3,
+      "accountNumber": "300400500",
+      "name": "Ewa Kowalska"
+    }
+  ]
+}
